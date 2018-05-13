@@ -1,5 +1,5 @@
                   
-                        Log Rotator Bash script
+                                      Log Rotator Bash script
                         
                         
 Note :- This script is developed for ubuntu based system and might require modifications for other flavours.
