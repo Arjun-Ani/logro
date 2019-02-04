@@ -10,3 +10,4 @@ There will be a file in the same location of the script "logs.txt".That file wil
 So we have to enter the full path and the name of the log file that should be rotated.
 
 The script will take the list of files from logs.txt, processes it and delete the old logs as per the number of logs.
+ @arjun
